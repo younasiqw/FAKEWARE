@@ -1,5 +1,10 @@
 #include "Skinchanger.h"
 
+/**
+ * Creds to namazso for blatant paste :))))
+ */
+
+
 enum class EStickerAttributeType
 {
 	Index,
